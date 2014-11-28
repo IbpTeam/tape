@@ -1,0 +1,12 @@
+ld
+out
+Release
+Debug
+.deps
+.DS_Store
+.swp
+*~
+~  
+build
+npm-debug.log
+node_modules
